@@ -4,7 +4,7 @@ The demand for cloud services is growing, and with it, so are the associated sec
 This system is a user-side encrypted file system for shared and stored external data. We shall use a hybrid identity-based encryption scheme structure based on contemporary cryptographic methods in this file system. Additionally, this file system was created to safeguard the integrity of outsourced information from data theft and deletion attempts.
 # Requirements :
 - Operating System:
-  - Ubuntu 16.04 +
+  - Linux
   - Windows
 - Database:
   - MySQL
