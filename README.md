@@ -8,7 +8,7 @@ This system is a user-side encrypted file system for shared and stored external 
   - Windows
 - Database:
   - MySQL
-- Browser
+- Browser:
   - Chrome
   - Firefox
   - Opera
